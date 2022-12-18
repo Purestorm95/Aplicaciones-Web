@@ -13,7 +13,7 @@ Es una herramienta con mapas sobre epidemias en todo el mundo, obtiene su inform
 ![](https://cdn.discordapp.com/attachments/969341092862496810/1054110567671021578/image.png)
 
 ## [Chicago Crime](https://data.cityofchicago.org/Public-Safety/Crimes-Map/dfnk-7re6)
-![](https://data.cityofchicago.org/assets/6A231614-652B-4334-852C-54261F4B13BD)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Seal_of_Chicago%2C_Illinois.svg/88px-Seal_of_Chicago%2C_Illinois.svg.png)
 
 Este es una aplicación híbrida del departamento de policía de Chicago que integra datos internos de criminalidad en Chicago con Google maps para monitorizar zonas con más crímenes.
 
