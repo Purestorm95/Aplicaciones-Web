@@ -6,7 +6,7 @@ Una **aplicación web híbrida** es una aplicación que combina servicios de var
 
 # Ejemplos
 ## [Healthmap](http://www.healthmap.org/)
-![](https://pbs.twimg.com/profile_images/616279625971335168/Hc6smXUi_400x400.jpg =250x)
+![](https://pbs.twimg.com/profile_images/616279625971335168/Hc6smXUi_400x400.jpg)
 Es una herramienta con mapas sobre epidemias en todo el mundo, obtiene su información de varios medios y los enfoca en una aplicación para ver.
 ![](https://cdn.discordapp.com/attachments/969341092862496810/1054110567671021578/image.png)
 ## [Chicago Crime](https://data.cityofchicago.org/Public-Safety/Crimes-Map/dfnk-7re6)
